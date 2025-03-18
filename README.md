@@ -1,6 +1,6 @@
 # Bad Apple
 
-Bad Apple!! by Masayoshi Minoshima (2007) is one of my favorite tracks from the past. This mini-tribute to enjoy its beauty in the terminal.
+Bad Apple!! by Masayoshi Minoshima (2007) is one of my favorite tracks from the past. This is a mini-tribute to enjoy its beauty in the terminal.
 
 ## Running
 
